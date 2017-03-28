@@ -1,6 +1,5 @@
 package com.zhang.string;
 
-import java.util.Arrays;
 
 public class KMP {
 	private String pat;

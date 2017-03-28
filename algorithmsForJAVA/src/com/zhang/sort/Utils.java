@@ -7,6 +7,7 @@ public class Utils {
 	}
 
 	static void exch(Comparable<Integer>[] a, int i, int j) {
+		
 		Comparable<Integer> t = a[i];
 		a[i] = a[j];
 		a[j] = t;
